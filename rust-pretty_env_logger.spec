@@ -5,8 +5,8 @@
 %global crate pretty_env_logger
 
 Name:           rust-%{crate}
-Version:        0.3.1
-Release:        2%{?dist}
+Version:        0.5.0
+Release:        1%{?dist}
 Summary:        Visually pretty env_logger
 
 # Upstream license specification: MIT/Apache-2.0
